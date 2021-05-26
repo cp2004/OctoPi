@@ -96,7 +96,7 @@ pi        1441     1  6 11:12 ?        00:00:15 /home/pi/oprint/bin/python <br>
 
             <p>
                 If all that doesn't help to trouble shoot the issue, you can seek
-                support on the <a href="https://discourse.octoprint.org">OctoPrint Community Forum</a>.
+                support on the <a href="https://community.octoprint.org">OctoPrint Community Forum</a>.
                 Please provide your OctoPi <strong>and</strong> OctoPrint versions as well as your <code>octoprint.log</code> 
                 and explain what you already tried and observed as detailed as possible.
             </p>
